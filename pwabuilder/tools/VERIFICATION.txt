@@ -1,0 +1,9 @@
+﻿This software is an open source pwa website developed by microsoft. This package is made by myself using pwabuilder.com itself. However, each time this tool generates a PWABuilder.sideload.msix with a different hash value. 
+
+1. Visit pwabuilder.com
+2. Enter "https://www.pwabuilder.com/" and click "Start"
+3. Click "Build My PWA"
+4. Choose "Windows"
+5. Click "Download", and you will get a zip package. Unzip it.
+6. checksum -t=sha256 PWABuilder.sideload.msix
+7. checksum -t=sha256 utils\pwainstaller.exe

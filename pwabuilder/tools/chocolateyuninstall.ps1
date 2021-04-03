@@ -1,0 +1,1 @@
+﻿get-appxpackage com.pwabuilder.www.edge | remove-appxpackage
