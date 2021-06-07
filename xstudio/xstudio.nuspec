@@ -47,7 +47,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
-    <tags>xstudio music midi vocal synthesis voice ai microsoft xiaoice wpf</tags>
+    <tags>admin xstudio music midi vocal synthesis voice ai microsoft xiaoice wpf</tags>
     <summary>A free vocal synthesizer based on AI</summary>
     <description>X Studio is an AI-implemented vocal synthesizer developed by Xiaoice, previously known as StudioVoICE. Currently, it only supports Chinese language. Users can enroll to make a voicebank.</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
