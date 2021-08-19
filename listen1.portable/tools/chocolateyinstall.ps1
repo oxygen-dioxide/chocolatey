@@ -1,6 +1,6 @@
 ﻿$packageName = 'listen1.portable'
-$url = 'https://github.com/listen1/listen1_desktop/releases/download/v2.19.0/listen1_2.19.0_win_x64.7z'
-$checksum = '4e09f744f0fd0443a1eac443cbbbc3350bf7813af5f50374c3776fb14fbfb668'
+$url = 'https://github.com/listen1/listen1_desktop/releases/download/v2.21.6/listen1_2.21.6_win_x64.7z'
+$checksum = 'a583df83ed8412be5fbd967a48c69b68613726e372bae06fe31316978512bb24'
 $checksumType = 'sha256'
 $unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 
