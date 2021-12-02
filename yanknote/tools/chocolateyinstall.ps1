@@ -1,6 +1,6 @@
 ﻿$packageName = 'yanknote'
-$url = 'https://github.com/purocean/yn/releases/download/v3.6.4/Yank-Note-win-x64-3.6.4.zip'
-$checksum = 'B1EC425FA5CA010EF5642BFF8E7D7228D0F33547D89B1913F82AECB96CE0F8CD'
+$url = 'https://github.com/purocean/yn/releases/download/v3.6.7/Yank-Note-win-x64-3.6.7.zip'
+$checksum = '36C9873816952B0AF0ACF660741E734AD6D3486510C7B252912B7EDE66C03978'
 $checksumType = 'sha256'
 $unzipLocation = $(Split-Path -parent $MyInvocation.MyCommand.Definition)
 

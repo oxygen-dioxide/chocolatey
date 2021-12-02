@@ -37,7 +37,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <title>kingdraw</title>
     <authors>kingdraw</authors>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://kingdraw.com</projectUrl>
+    <projectUrl>http://kingdraw.com/indexen?name=index</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/listen1.portable.png</iconUrl>-->
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
